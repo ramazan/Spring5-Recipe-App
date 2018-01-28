@@ -1,8 +1,19 @@
-# Spring Boot Recipe Application
+# Spring Boot 2  Recipe Application
 
-Recipe App using  Spring 5 - Spring Boot 2 - Spring Data JPA - Project Lombok - Spring Boot DevTools -  Thymeleaf Technologies
+Simple Recipe App
+ 
+ Used technologies 
+  <li>Spring 5
+  <li> Spring Boot 2 
+  <li>Spring Data JPA 
+  <li>Spring Boot DevTools 
+  <li>Project Lombok
+  <li> Mockito  
+  <li>Thymeleaf 
+  <li>WebJars - Web Libraries in Jars (www.webjars.org) 
+  <li>Circle CI for Continuous Integration
 
-http://spring5-recipe-app.herokuapp.com/
+Demo : http://spring5-recipe-app.herokuapp.com/
 
 This repository is for an example application Spring Framework 5 Online Udemy course 
 
