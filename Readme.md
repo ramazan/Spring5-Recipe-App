@@ -6,6 +6,7 @@ Simple Recipe App
   <li>Spring 5
   <li> Spring Boot 2 
   <li>Spring Data JPA 
+  <li> Hibernate and H2 Embedded Database
   <li>Spring Boot DevTools 
   <li>Project Lombok
   <li> Mockito  
