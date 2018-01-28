@@ -1,4 +1,4 @@
-wpackage com.ramazan.recipeapp.services;
+package com.ramazan.recipeapp.services;
 
 import com.ramazan.recipeapp.domain.Recipe;
 import com.ramazan.recipeapp.repositories.RecipeRepository;
