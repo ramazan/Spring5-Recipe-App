@@ -18,6 +18,12 @@ Simple Recipe App
 
 Demo : http://spring5-recipe-app.herokuapp.com/
 
+<hr/>
+
+##  When you run this project locally, You can access H2 Embedded Database these link: http://localhost:8080/h2-console/
+
+<img src="https://image.ibb.co/m8xUim/Screen_Shot_2018_02_04_at_01_32_32.png"/>
+
 This repository is for an example application Spring Framework 5 Online Udemy course 
 
 You can learn about Spring Framework 5 Online course [here.](https://go.springframework.guru/spring-framework-5-online-course)
