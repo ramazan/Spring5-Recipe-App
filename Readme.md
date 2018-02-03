@@ -22,9 +22,11 @@ This repository is for an example application Spring Framework 5 Online Udemy co
 
 You can learn about Spring Framework 5 Online course [here.](https://go.springframework.guru/spring-framework-5-online-course)
 
-## In this project, there are 5 tests according to the concept of Test Driven Development.
+## In this project, there are 5 tests according to the concept of Test Driven Development.
+
 <img src="https://image.ibb.co/dj38b6/Screen_Shot_2018_02_04_at_01_05_34.png"/>
 
-## When I push this repo , Circle CI run these all test and they show above badge
+
+##  When I push this repo , Circle CI run these all test and they show above badge
 
 [![CircleCI](https://circleci.com/gh/ramazan/Spring5-Recipe-App.svg?style=svg)](https://circleci.com/gh/ramazan/Spring5-Recipe-App)
