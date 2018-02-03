@@ -26,7 +26,7 @@ You can learn about Spring Framework 5 Online course [here.](https://go.springfr
 
 <img src="https://image.ibb.co/dj38b6/Screen_Shot_2018_02_04_at_01_05_34.png"/>
 
+[![CircleCI](https://circleci.com/gh/ramazan/Spring5-Recipe-App.svg?style=svg)](https://circleci.com/gh/ramazan/Spring5-Recipe-App)
 
 ##  When I push this repo , Circle CI run these all test and they show above badge
 
-[![CircleCI](https://circleci.com/gh/ramazan/Spring5-Recipe-App.svg?style=svg)](https://circleci.com/gh/ramazan/Spring5-Recipe-App)
