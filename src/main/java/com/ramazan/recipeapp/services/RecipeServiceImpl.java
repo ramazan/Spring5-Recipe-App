@@ -22,7 +22,7 @@ public class RecipeServiceImpl implements RecipeService
         log.info("Hey I'm at Service Layer!");
 
         Set<Recipe> recipeSet = new HashSet<>();
-        recipeRepository.findAll().iterator().forEachRemaining(recipe -> recipeSet.add(recipe));
+        recipeRepository.findAll().iterator().forEachRemaining(recipeSet::add));
         return recipeSet;
     }
 }
